@@ -40,5 +40,6 @@ The following findings were made from the dataset:
 ### Recommendations
 1. Policy makers and researchers should use this data to gain insights into the health status of different countries
 2. Health institutions can usse this data as a reference point to compare different levels of life expectancy and to use this data to monitor changes overtime
-3. 
+
+
 
